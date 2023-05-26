@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "588054052680",
+    "project_id": "sparewise-677ad",
+    "storage_bucket": "sparewise-677ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588054052680:android:292b7b7200ccb91b1f7d7d",
+        "android_client_info": {
+          "package_name": "com.example.sparewise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588054052680-c1b8m0ud7vqrjp1k1qio25v8erq133o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sparewise",
+            "certificate_hash": "db1479afe4837fac9c8a37708b902a4fe3589284"
+          }
+        },
+        {
+          "client_id": "588054052680-svntikbiqvrndmjbp9ognttvpcjpeq9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQARwE1l0HGdr7YfUMJGtpCr0U9pai-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588054052680-svntikbiqvrndmjbp9ognttvpcjpeq9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
